@@ -14,7 +14,8 @@ consumo total aumenta con la edad, las visitas a cafeterías se concentran en lo
 jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha medido
 para Colombia ni a escala de zona.
 
-##Estructura del repositorio
+## Estructura del repositorio
+
 `documentación/` -> DOCX Entrega 1 y 2a
 
 ## Equipo
