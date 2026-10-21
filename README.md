@@ -1,22 +1,19 @@
-# Proyecto-Final-Haciendo-Economia
+# Proyecto Final Haciendo Economía
 # Edad y demanda de café de especialidad en Bogotá
 
 ## Pregunta de investigación
 
-¿De qué manera se relaciona la edad de los consumidores con la demanda de café de especialidad en Bogotá?
+¿De qué manera se relaciona la edad con las formas de consumir café de especialidad, medidas por frecuencia de visita y gasto por visita, en las cafeterías de especialidad en Bogotá, y qué motivos y atributos de la oferta se asocian con esas diferencias?
 
 ## ¿Por qué esta pregunta?
 
-El auge del café de especialidad suele atribuirse a los jóvenes, pero en Bogotá no
-hay datos que lo confirmen. La literatura internacional muestra que la edad sí se
-relaciona con la demanda de café, aunque en sentidos distintos según la medida: el
-consumo total aumenta con la edad, las visitas a cafeterías se concentran en los
-jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha medido
-para Colombia ni a escala de zona.
+El auge del café de especialidad suele atribuirse a los jóvenes, pero en Bogotá no hay datos que lo confirmen. La literatura internacional muestra que la edad sí se
+relaciona con la demanda de café, aunque en sentidos distintos según la medida: el consumo total aumenta con la edad, las visitas a cafeterías se concentran en los
+jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha medido para Colombia ni a escala de zona.
 
 ## Estructura del repositorio
 
-`documentación/` -> DOCX Entrega 1 y 2a
+`documentación/` -> Entrega 1 y 2a, Entrega 2b y diagrama teoría del cambio
 
 ## Equipo
 
