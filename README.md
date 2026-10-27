@@ -3,7 +3,7 @@
 
 ## Pregunta de investigación
 
-¿De qué manera se relaciona la edad con las formas de consumir café de especialidad, medidas por frecuencia de visita y gasto por visita, en las cafeterías de especialidad en Bogotá, y qué motivos y atributos de la oferta se asocian con esas diferencias?
+¿De qué manera se relaciona la edad con las formas de consumir café de especialidad, medidas por frecuencia de visita y gasto por visita, en las cafeterías de especialidad de la zona norte de Bogotá (Chicó, Parque 93 y Zona T) y qué motivos y atributos de la oferta se asocian con esas diferencias?
 
 ## ¿Por qué esta pregunta?
 
@@ -13,7 +13,8 @@ jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha me
 
 ## Estructura del repositorio
 
-`documentación/` -> Entrega 1 y 2a, Entrega 2b y diagrama teoría del cambio
+`documentación/` -> Entrega 1 y 2a, Entrega 2b, Entrega 3a y 3b
+`documentos/` -> Documentos finales y corregidos de las entregas
 
 ## Equipo
 
