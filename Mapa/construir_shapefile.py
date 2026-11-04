@@ -12,6 +12,7 @@ Uso, desde la carpeta raíz del repositorio:
   python Mapa/construir_shapefile.py
 """
 from pathlib import Path
+import re
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Polygon
@@ -22,8 +23,38 @@ BASE = RAIZ / "Documentación" / "Entrega 3a Cafeterias y coordenadas.xlsx"
 SALIDA = RAIZ / "Mapa"
 COLOR = {"Principal": "#EA4335", "Reserva": "#FBBC04", "Sin encuestas": "#9AA0A6"}
 
+
+
+def separar(texto):
+    """Convierte '4.677213, -74.048095' (como lo copia Google Maps) en (lat, lon).
+    Acepta también coma decimal: '4,677213; -74,048095'."""
+    if pd.isna(texto):
+        return pd.Series([None, None])
+    nums = re.findall(r"-?\d+[.,]\d+", str(texto))
+    if len(nums) != 2:
+        raise SystemExit(f"No entiendo la coordenada '{texto}': debe tener latitud y longitud, como 4.677213, -74.048095")
+    lat, lon = (float(n.replace(",", ".")) for n in nums)
+    return pd.Series([lat, lon])
+
+
 caf = pd.read_excel(BASE, sheet_name="Cafeterias")
 zona = pd.read_excel(BASE, sheet_name="Zona")
+
+
+def coordenadas(tabla):
+    """Acepta las dos versiones del Excel: una columna coordenadas_google,
+    o columnas lat y lon separadas (con punto o con coma decimal)."""
+    if "coordenadas_google" in tabla.columns:
+        tabla[["lat", "lon"]] = tabla["coordenadas_google"].apply(separar)
+    else:
+        for c in ("lat", "lon"):
+            tabla[c] = pd.to_numeric(tabla[c].astype(str).str.replace(",", ".").str.strip()
+                                     .replace({"nan": None, "None": None, "": None}), errors="raise")
+    return tabla
+
+
+caf = coordenadas(caf)
+zona = coordenadas(zona)
 assert caf["id"].is_unique, "Hay ids repetidos"
 
 faltan = caf.loc[caf["lat"].isna() | caf["lon"].isna(), "id"].tolist()
@@ -31,7 +62,7 @@ if faltan:
     print("Sin coordenadas, no entran al mapa:", ", ".join(faltan))
 con = caf.dropna(subset=["lat", "lon"]).copy()
 if con.empty:
-    raise SystemExit("Complete lat y lon en la hoja Cafeterias antes de correr el script.")
+    raise SystemExit("Complete las coordenadas en la hoja Cafeterias antes de correr el script.")
 fuera = con[~con["lat"].between(4.6, 4.75) | ~con["lon"].between(-74.1, -74.0)]
 if not fuera.empty:
     raise SystemExit(f"Coordenadas fuera de la zona norte, revíselas: {fuera['id'].tolist()}")
