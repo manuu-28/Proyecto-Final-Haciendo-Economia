@@ -19,6 +19,7 @@ jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha me
 ## Equipo
 
 - Alejandro Cotrino
+- Emanuel Hernández
 - Samuel Mora
 - Sara Vásquez
 - Manuela Vergara
