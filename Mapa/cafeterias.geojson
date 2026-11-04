@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "cafeterias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "C01", "nombre": "Azahar Café 93", "direccion": "Calle 93B # 13-91", "subzona": "Parque 93 y Chicó", "campo": "Principal", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.050138455030947, 4.678068197852341 ] } },
+{ "type": "Feature", "properties": { "id": "C02", "nombre": "Azahar Café Nogal", "direccion": "Carrera 9 # 79A-23", "subzona": "Zona T y El Nogal", "campo": "Principal", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.0525617650718, 4.662954228072874 ] } },
+{ "type": "Feature", "properties": { "id": "C03", "nombre": "Café 18 Chicó", "direccion": "Carrera 11B # 96-54", "subzona": "Parque 93 y Chicó", "campo": "Principal", "especial": "Por verificar", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.046024600378971, 4.680547211521391 ] } },
+{ "type": "Feature", "properties": { "id": "C04", "nombre": "Café 18 Nogal", "direccion": "Carrera 9 # 78-31", "subzona": "Zona T y El Nogal", "campo": "Reserva", "especial": "Por verificar", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.053336494289482, 4.661870362914665 ] } },
+{ "type": "Feature", "properties": { "id": "C05", "nombre": "Colo Coffee Zona T", "direccion": "Carrera 12A # 83-48", "subzona": "Zona T y El Nogal", "campo": "Principal", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.053634223456839, 4.66776636137097 ] } },
+{ "type": "Feature", "properties": { "id": "C06", "nombre": "Colo Coffee para llevar", "direccion": "Cra. 13 #83-19", "subzona": "Zona T y El Nogal", "campo": "Sin encuestas", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.05454659787938, 4.667882096299408 ] } },
+{ "type": "Feature", "properties": { "id": "C07", "nombre": "Libertario Coffee Roasters", "direccion": "Carrera 13 # 85-13", "subzona": "Zona T y El Nogal", "campo": "Principal", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.053655997161883, 4.669459291690566 ] } },
+{ "type": "Feature", "properties": { "id": "C08", "nombre": "Tropicália Coffee", "direccion": "Calle 81A # 8-23", "subzona": "Zona T y El Nogal", "campo": "Principal", "especial": "Sí", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.050685641483497, 4.663771293020587 ] } },
+{ "type": "Feature", "properties": { "id": "C09", "nombre": "Haba Tonka", "direccion": "Carrera 14 # 77-30", "subzona": "Zona T y El Nogal", "campo": "Reserva", "especial": "Por verificar", "fuente_xy": "Google Maps" }, "geometry": { "type": "Point", "coordinates": [ -74.058080200378996, 4.663212192985085 ] } }
+]
+}
