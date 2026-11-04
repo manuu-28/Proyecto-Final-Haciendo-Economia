@@ -14,8 +14,11 @@ jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha me
 ## Estructura del repositorio
 
 `Documentación/` -> Entrega 1 y 2a, Entrega 2b, Entrega 3a y 3b corregidas
+
 `Documentos/` -> Documentos finales y corregidos de las entregas
+
 `Mapa/` -> Script construcción del shapefile del mapa con la verdadera escala
+
 `Scripts/` -> Script del informe de campo
 
 ## Equipo
