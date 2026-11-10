@@ -1,17 +1,3 @@
-"""Entrega 4: genera las tablas y la figura del informe de trabajo de campo.
-
-Lee:
-  Documentación/Entrega 3b Base encuestas.xlsx      (hojas Datos y Bitacora)
-  Documentación/Entrega 3a Cafeterias y coordenadas.xlsx (hoja Cafeterias)
-Escribe en Documentación/Entrega 4/:
-  tablas_campo.tex   tablas y cifras que el informe incluye con \\input
-  figura_cuotas.png  encuestas por grupo de edad frente a la meta
-
-Uso, desde la carpeta raíz del repositorio:
-  pip install pandas openpyxl matplotlib
-  python Scripts/informe_campo.py
-Después compile "Documentación/Entrega 4/Entrega 4 Informe trabajo de campo.tex".
-"""
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -40,9 +26,9 @@ def pct(a, b):
     return f"{100 * a / b:.0f}\\%" if b else "--"
 
 
-datos = pd.read_excel(DOC / "Entrega 3b Base encuestas.xlsx", sheet_name="Datos")
+datos = pd.read_excel(DOC / "Entrega 4 Resultados Encuestas.xlsx", sheet_name="Datos")
 datos = datos[datos["id_encuesta"].notna() & (datos["id_encuesta"] != "EJEMPLO")]
-bit = pd.read_excel(DOC / "Entrega 3b Base encuestas.xlsx", sheet_name="Bitacora")
+bit = pd.read_excel(DOC / "Entrega 4 Resultados Encuestas.xlsx", sheet_name="Bitacora")
 bit = bit[bit["fecha"].notna() & ~bit["incidentes"].astype(str).str.startswith("Fila de ejemplo")]
 caf = pd.read_excel(DOC / "Entrega 3a Cafeterias y coordenadas.xlsx", sheet_name="Cafeterias")
 nombres = dict(zip(caf["id"], caf["nombre"]))
