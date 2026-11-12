@@ -28,3 +28,37 @@ jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha me
 - Samuel Mora
 - Sara Vásquez
 - Manuela Vergara
+
+## Entrega 5: datos finales
+
+Resultado del campo: 168 encuestas válidas de 233 personas abordadas (tasa de respuesta del 72%), 56 por grupo de edad.
+
+| Archivo | Qué es |
+|---|---|
+| `Datos/raw/encuestas_raw.xlsx` | Datos raw: las 233 personas abordadas, la bitácora y el diccionario |
+| `Datos/raw/encuestas_raw_original.numbers` | Archivo original de captura |
+| `Scripts/01_limpieza.py` | Limpia los datos: deja las encuestas válidas, convierte tipos, crea `grupo_edad` y otras variables, y revisa la calidad |
+| `Datos/clean/encuestas_clean.csv` y `.xlsx` | Datos clean/tidy: 168 filas, una por persona; el Excel incluye el diccionario |
+| `Datos/clean/abordajes.csv` | Las 233 personas abordadas, con el indicador `valida` |
+| `Datos/clean/resumen_por_grupo.csv` | Medianas por grupo de edad |
+| `Scripts/02_graficos.py` | Genera los 10 gráficos de `Graficos/` |
+| `Scripts/Entrega5_Colab.ipynb` | Notebook para correr todo en Google Colab |
+
+### Cómo replicarlo
+
+**En Google Colab (sin instalar nada):** abran `Scripts/Entrega5_Colab.ipynb` en [colab.research.google.com](https://colab.research.google.com) (Archivo → Subir notebook), suban el `.zip` del repositorio cuando lo pida y den Ejecutar todo.
+
+**En su computador**, desde la carpeta del repositorio:
+
+```bash
+pip install pandas openpyxl matplotlib
+python Scripts/01_limpieza.py
+python Scripts/02_graficos.py
+```
+
+### Gráficos
+
+| | |
+|---|---|
+| ![](Graficos/02_visitas_30d.png) | ![](Graficos/03_gasto_visita.png) |
+| ![](Graficos/06_motivo.png) | ![](Graficos/07_atributos.png) |
