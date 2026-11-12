@@ -1,0 +1,234 @@
+﻿id_encuesta,id_cafeteria,fecha,franja,encuestador,consentimiento,mayor_18,razon_no_participa,valida
+E001,C02,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E002,C02,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E003,C02,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E004,C02,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E005,C02,2026-10-24,Sábado,SV,No,,No acepta,0
+E006,C02,2026-10-24,Sábado,MV,No,,No acepta,0
+E007,C02,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E008,C02,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E009,C02,2026-10-24,Sábado,SV,No,,No acepta,0
+E010,C02,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E011,C08,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E012,C08,2026-10-24,Sábado,MV,No,,No acepta,0
+E013,C08,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E014,C08,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E015,C08,2026-10-24,Sábado,SV,No,,Se retiró a mitad,0
+E016,C08,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E017,C08,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E018,C08,2026-10-24,Sábado,MV,No,,No acepta,0
+E019,C08,2026-10-24,Sábado,SV,Sí,Sí,No aplica (participó),1
+E020,C08,2026-10-24,Sábado,MV,Sí,Sí,No aplica (participó),1
+E021,C03,2026-10-26,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E022,C03,2026-10-26,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E023,C03,2026-10-26,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E024,C03,2026-10-26,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E025,C03,2026-10-26,Mañana laboral,SV,Sí,No,Menor de edad,0
+E026,C03,2026-10-26,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E027,C03,2026-10-26,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E028,C03,2026-10-26,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E029,C01,2026-10-26,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E030,C01,2026-10-26,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E031,C01,2026-10-26,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E032,C01,2026-10-26,Tarde laboral,MV,No,,No acepta,0
+E033,C01,2026-10-26,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E034,C01,2026-10-26,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E035,C01,2026-10-26,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E036,C01,2026-10-26,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E037,C07,2026-10-27,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E038,C07,2026-10-27,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E039,C07,2026-10-27,Mediodía laboral,SV,No,,Se retiró a mitad,0
+E040,C07,2026-10-27,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E041,C07,2026-10-27,Mediodía laboral,SV,No,,No acepta,0
+E042,C07,2026-10-27,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E043,C07,2026-10-27,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E044,C07,2026-10-27,Mediodía laboral,MV,No,,No acepta,0
+E045,C07,2026-10-27,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E046,C07,2026-10-27,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E047,C05,2026-10-27,Tarde laboral,SV,No,,Se retiró a mitad,0
+E048,C05,2026-10-27,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E049,C05,2026-10-27,Tarde laboral,SV,No,,No acepta,0
+E050,C05,2026-10-27,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E051,C05,2026-10-27,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E052,C05,2026-10-27,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E053,C05,2026-10-27,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E054,C05,2026-10-27,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E055,C05,2026-10-27,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E056,C08,2026-10-28,Mañana laboral,MV,No,,No acepta,0
+E057,C08,2026-10-28,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E058,C08,2026-10-28,Mañana laboral,MV,No,,No acepta,0
+E059,C08,2026-10-28,Mañana laboral,SV,No,,No acepta,0
+E060,C08,2026-10-28,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E061,C08,2026-10-28,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E062,C08,2026-10-28,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E063,C08,2026-10-28,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E064,C08,2026-10-28,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E065,C08,2026-10-28,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E066,C05,2026-10-28,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E067,C05,2026-10-28,Mediodía laboral,SV,No,,No acepta,0
+E068,C05,2026-10-28,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E069,C05,2026-10-28,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E070,C05,2026-10-28,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E071,C05,2026-10-28,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E072,C05,2026-10-28,Mediodía laboral,MV,No,,No acepta,0
+E073,C05,2026-10-28,Mediodía laboral,SV,No,,No acepta,0
+E074,C05,2026-10-28,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E075,C05,2026-10-28,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E076,C01,2026-10-29,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E077,C01,2026-10-29,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E078,C01,2026-10-29,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E079,C01,2026-10-29,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E080,C01,2026-10-29,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E081,C01,2026-10-29,Mañana laboral,SV,No,,No acepta,0
+E082,C01,2026-10-29,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E083,C01,2026-10-29,Mañana laboral,SV,Sí,No,Menor de edad,0
+E084,C01,2026-10-29,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E085,C01,2026-10-29,Mañana laboral,SV,No,,No acepta,0
+E086,C03,2026-10-29,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E087,C03,2026-10-29,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E088,C03,2026-10-29,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E089,C03,2026-10-29,Tarde laboral,SV,No,,No acepta,0
+E090,C03,2026-10-29,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E091,C03,2026-10-29,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E092,C03,2026-10-29,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E093,C03,2026-10-29,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E094,C03,2026-10-29,Tarde laboral,MV,No,,Se retiró a mitad,0
+E095,C01,2026-10-30,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E096,C01,2026-10-30,Mediodía laboral,MV,No,,No acepta,0
+E097,C01,2026-10-30,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E098,C01,2026-10-30,Mediodía laboral,MV,No,,No acepta,0
+E099,C01,2026-10-30,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E100,C01,2026-10-30,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E101,C01,2026-10-30,Mediodía laboral,SV,No,,No acepta,0
+E102,C01,2026-10-30,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E103,C01,2026-10-30,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E104,C01,2026-10-30,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E105,C02,2026-10-30,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E106,C02,2026-10-30,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E107,C02,2026-10-30,Tarde laboral,SV,No,,No acepta,0
+E108,C02,2026-10-30,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E109,C02,2026-10-30,Tarde laboral,SV,Sí,No,Menor de edad,0
+E110,C02,2026-10-30,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E111,C02,2026-10-30,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E112,C02,2026-10-30,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E113,C02,2026-10-30,Tarde laboral,SV,Sí,No,Menor de edad,0
+E114,C02,2026-10-30,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E115,C02,2026-10-30,Tarde laboral,SV,No,,No acepta,0
+E116,C02,2026-10-30,Tarde laboral,MV,No,,No acepta,0
+E117,C07,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E118,C07,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E119,C07,2026-10-31,Sábado,SV,Sí,No,Menor de edad,0
+E120,C07,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E121,C07,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E122,C07,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E123,C07,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E124,C07,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E125,C01,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E126,C01,2026-10-31,Sábado,MV,No,,No acepta,0
+E127,C01,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E128,C01,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E129,C01,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E130,C01,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E131,C01,2026-10-31,Sábado,SV,Sí,Sí,No aplica (participó),1
+E132,C01,2026-10-31,Sábado,MV,Sí,Sí,No aplica (participó),1
+E133,C01,2026-10-31,Sábado,SV,Sí,No,Menor de edad,0
+E134,C02,2026-11-03,Mañana laboral,MV,No,,No acepta,0
+E135,C02,2026-11-03,Mañana laboral,SV,No,,No acepta,0
+E136,C02,2026-11-03,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E137,C02,2026-11-03,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E138,C02,2026-11-03,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E139,C02,2026-11-03,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E140,C02,2026-11-03,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E141,C02,2026-11-03,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E142,C02,2026-11-03,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E143,C08,2026-11-03,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E144,C08,2026-11-03,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E145,C08,2026-11-03,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E146,C08,2026-11-03,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E147,C08,2026-11-03,Mediodía laboral,SV,No,,No acepta,0
+E148,C08,2026-11-03,Mediodía laboral,MV,Sí,No,Menor de edad,0
+E149,C08,2026-11-03,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E150,C08,2026-11-03,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E151,C08,2026-11-03,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E152,C08,2026-11-03,Mediodía laboral,MV,No,,No acepta,0
+E153,C07,2026-11-04,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E154,C07,2026-11-04,Mañana laboral,MV,No,,No acepta,0
+E155,C07,2026-11-04,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E156,C07,2026-11-04,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E157,C07,2026-11-04,Mañana laboral,SV,No,,No acepta,0
+E158,C07,2026-11-04,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E159,C07,2026-11-04,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E160,C07,2026-11-04,Mañana laboral,MV,No,,No acepta,0
+E161,C07,2026-11-04,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E162,C07,2026-11-04,Mañana laboral,MV,No,,No acepta,0
+E163,C07,2026-11-04,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E164,C08,2026-11-04,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E165,C08,2026-11-04,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E166,C08,2026-11-04,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E167,C08,2026-11-04,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E168,C08,2026-11-04,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E169,C08,2026-11-04,Tarde laboral,SV,No,,No acepta,0
+E170,C08,2026-11-04,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E171,C08,2026-11-04,Tarde laboral,SV,No,,No acepta,0
+E172,C08,2026-11-04,Tarde laboral,MV,No,,No acepta,0
+E173,C08,2026-11-04,Tarde laboral,SV,No,,No acepta,0
+E174,C08,2026-11-04,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E175,C03,2026-11-05,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E176,C03,2026-11-05,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E177,C03,2026-11-05,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E178,C03,2026-11-05,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E179,C03,2026-11-05,Mediodía laboral,SV,No,,No acepta,0
+E180,C03,2026-11-05,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E181,C03,2026-11-05,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E182,C03,2026-11-05,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E183,C07,2026-11-05,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E184,C07,2026-11-05,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E185,C07,2026-11-05,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E186,C07,2026-11-05,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E187,C07,2026-11-05,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E188,C07,2026-11-05,Tarde laboral,MV,Sí,Sí,No aplica (participó),1
+E189,C07,2026-11-05,Tarde laboral,SV,Sí,Sí,No aplica (participó),1
+E190,C05,2026-11-06,Mañana laboral,MV,No,,Se retiró a mitad,0
+E191,C05,2026-11-06,Mañana laboral,SV,No,,No acepta,0
+E192,C05,2026-11-06,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E193,C05,2026-11-06,Mañana laboral,SV,Sí,No,Menor de edad,0
+E194,C05,2026-11-06,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E195,C05,2026-11-06,Mañana laboral,SV,No,,No acepta,0
+E196,C05,2026-11-06,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E197,C05,2026-11-06,Mañana laboral,SV,No,,No acepta,0
+E198,C05,2026-11-06,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E199,C05,2026-11-06,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E200,C05,2026-11-06,Mañana laboral,MV,Sí,Sí,No aplica (participó),1
+E201,C05,2026-11-06,Mañana laboral,SV,Sí,Sí,No aplica (participó),1
+E202,C05,2026-11-06,Mañana laboral,MV,No,,No acepta,0
+E203,C02,2026-11-06,Mediodía laboral,SV,No,,No acepta,0
+E204,C02,2026-11-06,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E205,C02,2026-11-06,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E206,C02,2026-11-06,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E207,C02,2026-11-06,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E208,C02,2026-11-06,Mediodía laboral,MV,Sí,Sí,No aplica (participó),1
+E209,C02,2026-11-06,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E210,C02,2026-11-06,Mediodía laboral,MV,No,,No acepta,0
+E211,C02,2026-11-06,Mediodía laboral,SV,Sí,Sí,No aplica (participó),1
+E212,C02,2026-11-06,Mediodía laboral,MV,No,,No acepta,0
+E213,C05,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E214,C05,2026-11-07,Sábado,MV,No,,No acepta,0
+E215,C05,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E216,C05,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E217,C05,2026-11-07,Sábado,SV,No,,No acepta,0
+E218,C05,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E219,C05,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E220,C05,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E221,C05,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E222,C05,2026-11-07,Sábado,MV,No,,No acepta,0
+E223,C03,2026-11-07,Sábado,SV,No,,No acepta,0
+E224,C03,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E225,C03,2026-11-07,Sábado,SV,No,,No acepta,0
+E226,C03,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E227,C03,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E228,C03,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E229,C03,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E230,C03,2026-11-07,Sábado,MV,No,,No acepta,0
+E231,C03,2026-11-07,Sábado,SV,Sí,Sí,No aplica (participó),1
+E232,C03,2026-11-07,Sábado,MV,Sí,Sí,No aplica (participó),1
+E233,C03,2026-11-07,Sábado,SV,No,,No acepta,0
