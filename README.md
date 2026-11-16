@@ -13,9 +13,9 @@ jóvenes y los mayores gastan más por visita. Ningún estudio revisado lo ha me
 
 ## Estructura del repositorio
 
-`Documentación/` -> Entrega 1 y 2a, Entrega 2b, Entrega 3a y 3b corregidas, Entrega 4
+`Documentación/` -> Entrega 1 y 2a, Entrega 2b, Entrega 3a y 3b corregidas, Entrega 4, Entrega 5, Entrega 6
 
-`Documentos/` -> Documentos finales y corregidos de las entregas, resultados encuestas
+`Documentos/` -> Documentos finales y corregidos de las entregas, resultados encuestas, Informe final
 
 `Mapa/` -> Script construcción del shapefile del mapa con la verdadera escala
 
@@ -44,21 +44,3 @@ Resultado del campo: 168 encuestas válidas de 233 personas abordadas (tasa de r
 | `Scripts/02_graficos.py` | Genera los 10 gráficos de `Graficos/` |
 | `Scripts/Entrega5_Colab.ipynb` | Notebook para correr todo en Google Colab |
 
-### Cómo replicarlo
-
-**En Google Colab (sin instalar nada):** abran `Scripts/Entrega5_Colab.ipynb` en [colab.research.google.com](https://colab.research.google.com) (Archivo → Subir notebook), suban el `.zip` del repositorio cuando lo pida y den Ejecutar todo.
-
-**En su computador**, desde la carpeta del repositorio:
-
-```bash
-pip install pandas openpyxl matplotlib
-python Scripts/01_limpieza.py
-python Scripts/02_graficos.py
-```
-
-### Gráficos
-
-| | |
-|---|---|
-| ![](Graficos/02_visitas_30d.png) | ![](Graficos/03_gasto_visita.png) |
-| ![](Graficos/06_motivo.png) | ![](Graficos/07_atributos.png) |
